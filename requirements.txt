@@ -1,0 +1,4 @@
+# Python Version 3.13.3
+shap ~= 0.47.2
+matplotlib ~= 3.10.1
+xgboost ~= 3.0.0

@@ -1,4 +1,4 @@
-# Set Piece Goal Prediction – Bundesliga 2022/23 & 2023/24
+# Modeling Set Pieces in Soccer in an Expected Possession Value Framework – Bundesliga 2022/23 & 2023/24
 
 This repository provides a machine learning pipeline to predict the success of set pieces (e.g., corners, free kicks) based on event data from the German Bundesliga.
 

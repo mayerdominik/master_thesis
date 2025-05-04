@@ -1,4 +1,10 @@
 # Python Version 3.13.3
+pandas ~= 2.2.3
+numpy ~= 2.2.0
 shap ~= 0.47.2
 matplotlib ~= 3.10.1
 xgboost ~= 3.0.0
+scipy ~= 1.15.2
+ipython ~= 9.2.0
+torch ~= 2.6.0
+torchvision ~= 0.21.0

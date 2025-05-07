@@ -12,4 +12,6 @@ Required Python packages are listed in `requirements.txt`. The Python version us
 
 - `events_compressed_processed.pkl`: Precomputed feature values and metadata for set-piece events.
 - `model_training.ipynb`: Notebook for training, evaluation, and interpretation of models.
+- `model_training.html`: HTML-Export of the jupyter notebook.
 - `requirements.txt`: Contains all Python package dependencies.
+- `video_goal_vs_augsburg.mp4`: Shows a successful corner kick possession.
